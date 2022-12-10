@@ -8,7 +8,7 @@ while(True):
   domain = email_id[email_id.index('@')+1:]
 
   a=domain.upper()
-  print(f"username: {username} and domain: {(a)}")
+  print(f"username of the user input is: {username} and domain of the user is: {(a)}")
 
 
 
